@@ -4,9 +4,9 @@ function toggleMode() {
 
     const img = document.querySelector("#profile img")
     if (html.classList.contains('light')) {
-        img.setAttribute("src", "imagens/Jessica-2.png")
+        img.setAttribute("src", "Jessica-2.png")
     } else {
-        img.setAttribute("src", "imagens/Jessica-Profile.png")
+        img.setAttribute("src", "Jessica-Profile.png")
     }
 
     }
