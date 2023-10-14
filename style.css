@@ -9,7 +9,7 @@
     --surface-color: rgba(255, 255, 255, 0.05);
     --surface-color-hover: rgba(0, 0, 0, 0.02);
     --highlight-color: rgba(255, 255, 255, 0.2);
-    --switch-bg-url: url(imagens/moon-stars.svg);
+    --switch-bg-url: url(moon-stars.svg);
     background-image: linear-gradient(to left, #5F02A6, #391952, #8202E6, #8A02F2, #8A02F2, #7402CC);
     background-size: 500% 100%;
     animation: degrade-animado 5s infinite alternate;
@@ -23,7 +23,7 @@
     --surface-color: rgba(0, 0, 0, 0.05);
     --surface-color-hover: rgba(0, 0, 0, 0.02);
     --highlight-color: rgba(0, 0, 0, 0.1);
-    --switch-bg-url: url(imagens/sun.svg);
+    --switch-bg-url: url(sun.svg);
 }
 body {
     width: 100%;
